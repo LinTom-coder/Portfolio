@@ -1,13 +1,13 @@
 # Portfolio
-## course assignment 
-### image processing
+## Course Assignment 
+### Image Processing
 - [Floyd–Steinberg dithering](https://github.com/LinTom-coder/ADIP-dithering)  
 - [Edge-Detection](https://github.com/LinTom-coder/ADIP-SpatialDomainEdgeDetection)  
 - [Morphology-Thinning](https://github.com/LinTom-coder/ADIP-Morphology-thinning)  
 
-### deep learning and LLM
+### Deep Learning and LLM
 
 ---
 
-## lab project
+## Lab Project
 - [Application-of-AI-based-Colorization-Module-in-Spinal-Endoscopy](https://github.com/LinTom-coder/Application-of-Multispectral-Imaging-Technology-and-AI-based-Colorization-Module-in-Spinal-Endoscopy)
