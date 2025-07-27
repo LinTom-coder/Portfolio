@@ -6,6 +6,7 @@
 - [Morphology-Thinning](https://github.com/LinTom-coder/ADIP-Morphology-thinning)  
 
 ### Deep Learning and LLM
+- [Auto-Encoder](https://github.com/LinTom-coder/Application-of-AutoEncoder-in-Dimensionality-Reduction)
 
 ---
 
