@@ -1,5 +1,5 @@
 # Portfolio
-## Course Assignment 
+## Course Assignment
 ### Image Processing
 - [Floyd–Steinberg dithering](https://github.com/LinTom-coder/ADIP-dithering)  
 - [Edge-Detection](https://github.com/LinTom-coder/ADIP-SpatialDomainEdgeDetection)  
